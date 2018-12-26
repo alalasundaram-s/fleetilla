@@ -1,0 +1,150 @@
+{
+  "accounts": [
+    {
+      "accountID": "I09SER122",
+      "accountName": "Tranzlogix",
+      "units": [
+        {
+          "unitName": "Truck01",
+          "uid": "089",
+          "uom": "Metric",
+          "phone": "879309333",
+          "password": "XXCXX",
+          "profileFields": {
+            "vin": "JH4TB2H26CC000000",
+            "registrationPlate": "MXY-879",
+            "brand": "ACURA",
+            "model": "TB2H2",
+            "year": "2012"
+          },
+          "counters": {
+            "mileage": 7899,
+            "engineHours": 5.5
+          },
+          "customFields": [
+            {
+              "name": "",
+              "value": ""
+            }
+          ],
+          "position": {
+            "t": "2018-12-26T05:25:28.267Z",
+            "y": 39.46953,
+            "x": -87.40706,
+            "z": 0,
+            "s": 87,
+            "d": 35,
+            "c": 0
+          },
+          "id": 456
+        },
+        {
+          "unitName": "Truck02",
+          "uid": "090",
+          "uom": "Metric",
+          "phone": "879309333",
+          "password": "XXCXX",
+          "profileFields": {
+            "vin": "WAUFFAFM3CA000000",
+            "registrationPlate": "MUY-119",
+            "brand": "AUDI",
+            "model": "FFAF",
+            "year": "2012"
+          },
+          "counters": {
+            "mileage": 8881,
+            "engineHours": 2.2
+          },
+          "customFields": [
+            {
+              "name": "",
+              "value": ""
+            }
+          ],
+          "position": {
+            "t": "2018-12-26T05:24:28.267Z",
+            "y": 39.870461,
+            "x": -85.323021,
+            "z": 0,
+            "s": 67,
+            "d": 20,
+            "c": 0
+          },
+          "id": 457
+        },
+        {
+          "unitName": "Truck03",
+          "uid": "091",
+          "uom": "Metric",
+          "phone": "879309333",
+          "password": "XXCXX",
+          "profileFields": {
+            "vin": "WBAUP7C57CV000000",
+            "registrationPlate": "MXY-879",
+            "brand": "BMW",
+            "model": "UP7",
+            "year": "2012"
+          },
+          "counters": {
+            "mileage": 10922,
+            "engineHours": 8.5
+          },
+          "customFields": [
+            {
+              "name": "",
+              "value": ""
+            }
+          ],
+          "position": {
+            "t": "2018-12-26T05:25:28.267Z",
+            "y": 40.141510,
+            "x": -87.61205,
+            "z": 0,
+            "s": 67,
+            "d": 30,
+            "c": 0
+          },
+          "id": 461
+        },
+        {
+          "unitName": "Truck04",
+          "uid": "093",
+          "uom": "Metric",
+          "phone": "879309333",
+          "password": "XXCXX",
+          "profileFields": {
+            "vin": "1G4GA5ER7CU000000",
+            "registrationPlate": "OHJ-119",
+            "brand": "BUICK",
+            "model": "GA5",
+            "year": "2012"
+          },
+          "counters": {
+            "mileage": 7519,
+            "engineHours": 2.5
+          },
+          "customFields": [
+            {
+              "name": "",
+              "value": ""
+            }
+          ],
+          "position": {
+            "t": "2018-12-26T05:25:28.267Z",
+            "y": 40.136128,
+            "x": -87.615323,
+            "z": 0,
+            "s": 55,
+            "d": 35,
+            "c": 0
+          },
+          "id": 493
+        }
+      ]
+    }
+  ],
+  "resultCode": 200,
+  "resultText": "success",
+  "apiCallsThisMonth": 23,
+  "instanceID": "896YHTVVV01"
+}
